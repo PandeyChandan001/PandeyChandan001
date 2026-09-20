@@ -1,19 +1,19 @@
 <div align="center">
 
-<!-- Animated Tokyo Night Wave Header -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7AA2F7,50:BB9AF7,100:1A1B26&height=130&section=header&text=Chandan%20Pandey&fontSize=42&fontColor=ffffff&fontAlignY=38" alt="Chandan Pandey Header" width="100%" />
+<!-- Animated Emerald & Cyan Wave Header -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F5D4,50:10B981,100:064E3B&height=130&section=header&text=Chandan%20Pandey&fontSize=42&fontColor=ffffff&fontAlignY=38" alt="Chandan Pandey Header" width="100%" />
 
 <!-- Animated Typing Subtitle -->
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&duration=3000&pause=1000&color=7AA2F7&center=true&vCenter=true&width=620&lines=B.Tech+CSE+(5th+Sem)+@+Manipal+University+Jaipur;Aspiring+Full-Stack+%26+Software+Engineering+Intern;Daily+DSA+Practice+in+Java%2C+C%2B%2B+%26+Python;Building+Practical+AI+%26+Systems-Focused+Projects" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&duration=3000&pause=1000&color=00F5D4&center=true&vCenter=true&width=620&lines=B.Tech+CSE+(5th+Sem)+@+Manipal+University+Jaipur;Aspiring+Full-Stack+%26+Software+Engineering+Intern;Daily+DSA+Practice+in+Java%2C+C%2B%2B+%26+Python;Building+Practical+AI+%26+Systems-Focused+Projects" alt="Typing SVG" />
   </a>
 </p>
 
 <!-- Email Contact Badge -->
 <p align="center">
   <a href="mailto:chandanpandey000001@gmail.com">
-    <img src="https://img.shields.io/badge/Contact_Me-chandanpandey000001%40gmail.com-7AA2F7?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Chandan" />
+    <img src="https://img.shields.io/badge/Contact_Me-chandanpandey000001%40gmail.com-00F5D4?style=for-the-badge&logo=gmail&logoColor=000000" alt="Email Chandan" />
   </a>
 </p>
 
@@ -95,15 +95,15 @@
 ### 📊 GitHub Activity
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=PandeyChandan001&show_icons=true&theme=tokyonight&hide_border=true&bg_color=1A1B26" alt="GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PandeyChandan001&layout=compact&theme=tokyonight&hide_border=true&bg_color=1A1B26" alt="Top Languages" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=PandeyChandan001&show_icons=true&theme=radical&hide_border=true&bg_color=064E3B00&title_color=00F5D4&icon_color=00F5D4&text_color=E2E8F0" alt="GitHub Stats" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PandeyChandan001&layout=compact&theme=radical&hide_border=true&bg_color=064E3B00&title_color=00F5D4&text_color=E2E8F0" alt="Top Languages" width="48%" />
   <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=PandeyChandan001&theme=tokyonight&hide_border=true&background=1A1B26" alt="GitHub Streak" width="97%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=PandeyChandan001&theme=radical&hide_border=true&background=064E3B00&ring=00F5D4&fire=10B981&currStreakLabel=00F5D4" alt="GitHub Streak" width="97%" />
 </div>
 
 <br/>
 
 <div align="center">
-  <!-- Matching Tokyo Night Footer Wave -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1A1B26,50:BB9AF7,100:7AA2F7&height=90&section=footer" width="100%" />
+  <!-- Matching Emerald & Cyan Footer Wave -->
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:064E3B,50:10B981,100:00F5D4&height=90&section=footer" width="100%" />
 </div>
