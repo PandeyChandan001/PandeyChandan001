@@ -3,6 +3,11 @@
 <!-- Animated Header: Waving Glow -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:10002B,35:240046,70:7B2CBF,100:FF9E00&height=180&section=header&text=Chandan%20Pandey&fontSize=48&fontColor=ffffff&animation=twinkling&fontAlignY=40" alt="Chandan Pandey Header" width="100%" />
 
+<!-- Lofi Vibing Developer Animation -->
+<p align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Developer vibing with headphones on laptop" width="340" style="border-radius: 12px; margin-top: -10px;" />
+</p>
+
 <!-- Dynamic JetBrains Typing SVG -->
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=18&duration=2500&pause=1000&color=FFB703&center=true&vCenter=true&width=620&lines=B.Tech+CSE+(5th+Sem)+at+Manipal+University+Jaipur;Aspiring+Full-Stack+and+SDE+Intern;Daily+DSA+Grind+in+Java%2C+C%2B%2B+and+Python;Building+Practical+AI+and+Scalable+Web+Systems" alt="Typing SVG" />
@@ -87,17 +92,6 @@
     </td>
   </tr>
 </table>
-
----
-
-### 📊 Real-Time Metrics
-
-<div align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=PandeyChandan001&show_icons=true&bg_color=10002B&title_color=FFB703&icon_color=FF9E00&text_color=E0AAFF&border_color=3C096C&border_radius=10" alt="GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=PandeyChandan001&layout=compact&bg_color=10002B&title_color=FFB703&text_color=E0AAFF&border_color=3C096C&border_radius=10" alt="Top Languages" width="48%" />
-  <br/><br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=PandeyChandan001&background=10002B&ring=FF9E00&fire=9D4EDD&currStreakLabel=FFB703&currStreakNum=ffffff&sideNums=E0AAFF&sideLabels=E0AAFF&dates=9D4EDD&border=3C096C&border_radius=10" alt="GitHub Streak" width="97%" />
-</div>
 
 <br/>
 
