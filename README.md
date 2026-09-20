@@ -1,19 +1,19 @@
 <div align="center">
 
-<!-- Animated Emerald & Cyan Wave Header -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F5D4,50:10B981,100:064E3B&height=130&section=header&text=Chandan%20Pandey&fontSize=42&fontColor=ffffff&fontAlignY=38" alt="Chandan Pandey Header" width="100%" />
+<!-- Animated Header: Solar Flare Wave -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF9E00,40:9D4EDD,100:10002B&height=130&section=header&text=Chandan%20Pandey&fontSize=42&fontColor=ffffff&fontAlignY=38" alt="Solar Flare Header" width="100%" />
 
-<!-- Animated Typing Subtitle -->
+<!-- Typing Line -->
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&duration=3000&pause=1000&color=00F5D4&center=true&vCenter=true&width=620&lines=B.Tech+CSE+(5th+Sem)+@+Manipal+University+Jaipur;Aspiring+Full-Stack+%26+Software+Engineering+Intern;Daily+DSA+Practice+in+Java%2C+C%2B%2B+%26+Python;Building+Practical+AI+%26+Systems-Focused+Projects" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&duration=3000&pause=1000&color=FFB703&center=true&vCenter=true&width=620&lines=B.Tech+CSE+(5th+Sem)+@+Manipal+University+Jaipur;Aspiring+Full-Stack+%26+Software+Engineering+Intern;Daily+DSA+Practice+in+Java%2C+C%2B%2B+%26+Python;Building+Practical+AI+%26+Systems-Focused+Projects" alt="Typing SVG" />
   </a>
 </p>
 
-<!-- Email Contact Badge -->
+<!-- Email Badge -->
 <p align="center">
   <a href="mailto:chandanpandey000001@gmail.com">
-    <img src="https://img.shields.io/badge/Contact_Me-chandanpandey000001%40gmail.com-00F5D4?style=for-the-badge&logo=gmail&logoColor=000000" alt="Email Chandan" />
+    <img src="https://img.shields.io/badge/Direct_Mail-chandanpandey000001%40gmail.com-FF9E00?style=for-the-badge&logo=gmail&logoColor=000" alt="Email Chandan" />
   </a>
 </p>
 
@@ -33,20 +33,17 @@
 ### 💻 Tech Stack & Tools
 
 <p align="center">
-  <!-- Languages -->
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
   <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++" />
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
   <br/>
-  <!-- Web & Frameworks -->
   <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js" />
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" />
   <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS" />
   <br/>
-  <!-- Backend, DBs & Tools -->
   <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
   <img src="https://img.shields.io/badge/Neon_DB-00E599?style=for-the-badge&logo=postgresql&logoColor=000000" alt="Neon" />
   <img src="https://img.shields.io/badge/Prisma_ORM-2D3748?style=for-the-badge&logo=prisma&logoColor=white" alt="Prisma" />
@@ -92,18 +89,17 @@
 
 ---
 
-### 📊 GitHub Activity
+### 📊 Real-Time Metrics
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=PandeyChandan001&show_icons=true&theme=radical&hide_border=true&bg_color=064E3B00&title_color=00F5D4&icon_color=00F5D4&text_color=E2E8F0" alt="GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PandeyChandan001&layout=compact&theme=radical&hide_border=true&bg_color=064E3B00&title_color=00F5D4&text_color=E2E8F0" alt="Top Languages" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=PandeyChandan001&show_icons=true&bg_color=10002B&title_color=FFB703&icon_color=FF9E00&text_color=E0AAFF&hide_border=true" alt="GitHub Stats" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PandeyChandan001&layout=compact&bg_color=10002B&title_color=FFB703&text_color=E0AAFF&hide_border=true" alt="Top Languages" width="48%" />
   <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=PandeyChandan001&theme=radical&hide_border=true&background=064E3B00&ring=00F5D4&fire=10B981&currStreakLabel=00F5D4" alt="GitHub Streak" width="97%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=PandeyChandan001&background=10002B&ring=FF9E00&fire=9D4EDD&currStreakLabel=FFB703&currStreakNum=ffffff&sideNums=E0AAFF&sideLabels=E0AAFF&dates=9D4EDD&hide_border=true" alt="GitHub Streak" width="97%" />
 </div>
 
 <br/>
 
 <div align="center">
-  <!-- Matching Emerald & Cyan Footer Wave -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:064E3B,50:10B981,100:00F5D4&height=90&section=footer" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:10002B,60:9D4EDD,100:FF9E00&height=90&section=footer" width="100%" />
 </div>
